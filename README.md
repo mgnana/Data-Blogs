@@ -1,4 +1,4 @@
-# Data-Blogs
+# Exploratory Data Analysis
 
 Exploratory Data Analysis (EDA) is the first step in your data analysis process and is inevitable to obtain confidence in your data so as to engage in a statistical or machine learning algorithm.
 Here is an article which gives a quick introduction to explore your data efficiently with Python's powerful packages such as Scipy, Numpy, Matplotlib, Pandas and seaborn! 
